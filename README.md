@@ -6,6 +6,11 @@ A PyTorch implementation of LSTM-Shuttle
 <img src='imgs/case.png' width='55%' />
 
 ## Overview
+LSTM-Shuttle is an implementation of 
+"Speed Reading: Learning to Read ForBackward via Shuttle" 
+Tsu-Jui Fu and Wei-Yun Ma
+in Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018
+
 <img src='imgs/overview.png' width='75%' />
 
 LSTM-Shuttle not only reads shuttling forward but also goes back. Shuttling **forward enables high efficiency**, and going **backward gives the model a chance to recover lost information**, ensuring better prediction. It first reads a fixed number of words sequentially and outputs the hidden state. Then, based on the hidden state, LSTM-Shuttle **computes the shuttle softmax distribution over the forward or backward steps**.
