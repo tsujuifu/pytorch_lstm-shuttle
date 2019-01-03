@@ -38,3 +38,4 @@ Following libraries are also required:
 ```
 
 ## Acknowledgement
++ [Learning to Skim Text](https://arxiv.org/pdf/1704.06877.pdf)
