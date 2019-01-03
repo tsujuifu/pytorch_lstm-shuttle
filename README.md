@@ -5,6 +5,6 @@ A PyTorch implementation of LSTM-Shuttle
 
 ## Overview
 
-<img src='imgs/overview.png' width='65%' />
+<img src='imgs/overview.png' width='75%' />
 
 ## This will be updated soon
