@@ -6,7 +6,8 @@ A PyTorch implementation of LSTM-Shuttle
 <img src='imgs/case.png' width='55%' />
 
 ## Overview
-
 <img src='imgs/overview.png' width='75%' />
+
+LSTM-Shuttle not only reads shuttling forward but also goes back. Shuttling **forward enables high efficiency**, and going **backward gives the model a chance to recover lost information**, ensuring better prediction.
 
 ## This will be updated soon
