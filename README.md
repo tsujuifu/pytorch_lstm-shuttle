@@ -16,7 +16,7 @@ in Conference on Empirical Methods in Natural Language Processing (EMNLP) 2018
 LSTM-Shuttle not only reads shuttling forward but also goes back. Shuttling **forward enables high efficiency**, and going **backward gives the model a chance to recover lost information**, ensuring better prediction. It first reads a fixed number of words sequentially and outputs the hidden state. Then, based on the hidden state, LSTM-Shuttle **computes the shuttle softmax distribution over the forward or backward steps**.
 
 ## Requirements
-This code is implemented under **Python3** and [PyTorch](https://pytorch.org).
+This code is implemented under **Python3** and [PyTorch](https://pytorch.org). <br>
 Following libraries are also required:
 + [PyTorch](https://pytorch.org) >= 0.4
 
