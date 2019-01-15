@@ -22,6 +22,8 @@ Following libraries are also required:
 + [spaCy](https://spacy.io/)
 
 ## Usage
+We use [spaCy](https://spacy.io/) as pre-trained word embedding.
+
 + LSTM-Vanilla
 ```
 model_lstm-vanilla.ipynb
