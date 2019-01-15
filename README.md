@@ -21,6 +21,18 @@ Following libraries are also required:
 + [PyTorch](https://pytorch.org) >= 0.4
 
 ## Usage
++ LSTM-Vanilla
+```
+model_lstm-vanilla.ipynb
+```
++ LSTM-Jump
+```
+model_lstm-jump.ipynb
+```
++ LSTM-Shuffle
+```
+model_lstm-shuffle.ipynb
+```
 
 ## Resources
 + [IMDB Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
