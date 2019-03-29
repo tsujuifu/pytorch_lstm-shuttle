@@ -32,9 +32,9 @@ model_lstm-vanilla.ipynb
 ```
 model_lstm-jump.ipynb
 ```
-+ LSTM-Shuffle
++ LSTM-Shuttle
 ```
-model_lstm-shuffle.ipynb
+model_lstm-shuttle.ipynb
 ```
 
 ## Resources
