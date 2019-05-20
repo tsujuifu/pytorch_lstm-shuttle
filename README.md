@@ -22,7 +22,7 @@ Following libraries are also required:
 + [spaCy](https://spacy.io/)
 
 ## Usage
-We use [spaCy](https://spacy.io/) as pre-trained word embedding.
+We use [spaCy](https://spacy.io/) as **pre-trained word embedding**.
 
 + LSTM-Vanilla
 ```
