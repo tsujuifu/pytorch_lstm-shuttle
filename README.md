@@ -1,4 +1,4 @@
-# [EMNLP'18 (long)] Speed Reading: Learning to Read ForBackward via Shuttle
+# [EMNLP'18 (Long)] Speed Reading: Learning to Read ForBackward via Shuttle
 A **PyTorch** implementation of LSTM-Shuttle
 
 [Paper](https://tsujuifu.github.io/pubs/emnlp18_lstm-shuttle.pdf) | [Poster](https://raw.githubusercontent.com/tsujuifu/pytorch_lstm-shuttle/master/imgs/poster.jpg)
