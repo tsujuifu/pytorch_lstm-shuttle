@@ -18,7 +18,7 @@ LSTM-Shuttle not only reads shuttling forward but also goes back. Shuttling **fo
 ## Requirements
 This code is implemented under **Python3** and [PyTorch](https://pytorch.org). <br>
 Following libraries are also required:
-+ [PyTorch](https://pytorch.org) >= 0.4
++ [PyTorch](https://pytorch.org)>=0.4
 + [spaCy](https://spacy.io/)
 
 ## Usage
