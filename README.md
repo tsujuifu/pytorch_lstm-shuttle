@@ -46,7 +46,7 @@ model_lstm-shuttle.ipynb
 ```
 @inproceedings{fu2018lstm-shuttle, 
   author = {Tsu-Jui Fu and Wei-Yun Ma}, 
-  title = {Speed Reading: Learning to Read ForBackward via Shuttle}, 
+  title = {{Speed Reading: Learning to Read ForBackward via Shuttle}}, 
   booktitle = {Conference on Empirical Methods in Natural Language Processing (EMNLP)}, 
   year = {2018} 
 }
