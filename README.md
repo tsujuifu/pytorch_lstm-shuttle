@@ -8,7 +8,7 @@ A **PyTorch** implementation of LSTM-Shuttle
 ## Overview
 LSTM-Shuttle is an implementation of <br> 
 "[Speed Reading: Learning to Read ForBackward via Shuttle](https://tsujuifu.github.io/pubs/emnlp18_lstm-shuttle.pdf)" <br>
-[Tsu-Jui Fu](http://tsujuifu.github.io/) and [Wei-Yun Ma](http://www.iis.sinica.edu.tw/pages/ma/) <br>
+[Tsu-Jui Fu](https://scholar.google.com/citations?user=7QRDcC0AAAAJ) and [Wei-Yun Ma](https://scholar.google.com/citations?user=AHG3DncAAAAJ) <br>
 in Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2018 (Long)
 
 <img src='imgs/overview.png' width='75%' />
